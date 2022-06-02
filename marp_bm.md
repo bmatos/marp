@@ -18,10 +18,11 @@ theme: uncover
 ##### Personal investment
 
 ---
-#### Your thoughts on opportunities and challenges
+#### There is a lot of oppertunity to help customer with their day to day IT administration.
 #### What personal investments did you make in the last 12 months, and how did they impact you and the business?
 #### Top professional accomplishment in the last 12 months?
 #### What value did you bring to the business over the last 12 months?
 #### What worked well, what didn’t work well, what would you do differently, and how do you think this would alter the outcome?
 ---
 #### What investments do you plan to make in the next 12 months, why, and what do you hope to achieve? 
+
