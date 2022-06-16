@@ -20,19 +20,25 @@ theme: uncover
   ### Bob Matos
   ### Senior System Engineer
   ### Virgin Hotel, Las Vegas, June 2022
-![bg opacity:.3 ](images\globalwwa.png)
+![bg opacity:.2](images\globalwwa.png)
 
 ---
 + **45 years in the IT field servicing mission critical data centers**
 + **Team lead for the Sysops group**
 + **Currently what drives me is the need to get the team up to speed with all the current customer's configuration**
-![bg opacity:.3 ](images\DEC.jpg)
+![bg opacity:.2](images\DEC.jpg)
+---
+![bg left fit](images\Career_1.png)
+
+![bg right fit](images\Career_2.png)
+
 ---
 + **The opportunities are there. The ability to become partners with company's  daily IT administration struggles.**
-+ I tried to understand what was missing in our coverage for each of our clients.
-+ Getting the new team memebers up to speed on all the EX client's, but it's still a work in progress.
-![bg opacity:.3 ](images\IT_Spending.png)
++ **I tried to understand what was missing in our coverage for each of our clients.**
++ **Getting the new team memebers up to speed on all the EX client's, but it's still a work in progress.***
+![bg opacity:.2](images\DEC_1.jpg)
 ---
-+ My experiance with all of our legacy clients is that value that I have bought to the team.
-+ Getting the team to be responsible for certain customer. Trying to get team weekly meeting do not work. I would try to make the weekly meeting a training session. This will hopefully insure that the meeting would be more productive. 
-+ Need to make more time for training session and get training thru CC options.
++ **My experiance with all of our legacy clients is that value that I have bought to the team.**
++ **Getting the team to be responsible for certain customer. Trying to get team weekly meeting do not work. I would try to make the weekly meeting a training session. This will hopefully insure that the meeting would be more productive.** 
++ **Need to make more time for training session and get training thru CC options.**
+![bg opacity:.2](images\DEC_2.jpg)
