@@ -28,12 +28,11 @@ theme: uncover
 + **Currently what drives me is the need to get the team up to speed with all the current customer's configuration**
 ![bg opacity:.2](images\DEC.jpg)
 ---
-![bg left fit](images\Career_1.png)
-
-![bg right fit](images\Career_2.png)
+![w:500px](images\Career_1.png)  ![w:400px](images\Career_2.png)
+![bg opacity:.2](images\DEC_3.jpg)
 
 ---
-+ **The opportunities are there. The ability to become partners with company's  daily IT administration struggles.**
++ **The opportunities are there. The ability to become partners with companies and help with their daily IT administration struggles.**
 + **I tried to understand what was missing in our coverage for each of our clients.**
 + **Getting the new team memebers up to speed on all the EX client's, but it's still a work in progress.***
 ![bg opacity:.2](images\DEC_1.jpg)
